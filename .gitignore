@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Downloaded media (copyrighted content — never commit)
+*.mp4
+*.mp3
+*.mkv
+*.webm
+*.m4a
+*.wav
+*.flac
+*.part
+*.ytdl
+
+# This tool writes downloads into per-playlist folders at the repo root;
+# ignore all such output directories.
+/*/
