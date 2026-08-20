@@ -19,3 +19,4 @@ venv/
 # This tool writes downloads into per-playlist folders at the repo root;
 # ignore all such output directories.
 /*/
+!/.github/

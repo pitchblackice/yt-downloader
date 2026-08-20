@@ -1,5 +1,6 @@
 # YTDownloader
 
+[![CI](https://github.com/pitchblackice/yt-downloader/actions/workflows/ci.yml/badge.svg)](https://github.com/pitchblackice/yt-downloader/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A small command-line wrapper around [yt-dlp](https://github.com/yt-dlp/yt-dlp) for downloading YouTube videos, audio, or full playlists.
